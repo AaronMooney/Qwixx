@@ -1,0 +1,15 @@
+﻿  main.cpp
+d:\workspace\cpp\qwixx_assignment\qwixx_assignment\main.cpp(23): warning C4227: anachronism used: qualifiers on reference are ignored
+d:\workspace\cpp\qwixx_assignment\qwixx_assignment\main.cpp(93): warning C4018: '<=': signed/unsigned mismatch
+d:\workspace\cpp\qwixx_assignment\qwixx_assignment\main.cpp(291): warning C4227: anachronism used: qualifiers on reference are ignored
+  die.cpp
+  Generating Code...
+d:\workspace\cpp\qwixx_assignment\qwixx_assignment\main.cpp(281): warning C4715: 'makeSecondMove': not all control paths return a value
+d:\workspace\cpp\qwixx_assignment\qwixx_assignment\main.cpp(149): warning C4715: 'makeMove': not all control paths return a value
+  Compiling...
+  scoreSheet.cpp
+d:\workspace\cpp\qwixx_assignment\qwixx_assignment\scoresheet.cpp(32): warning C4018: '<': signed/unsigned mismatch
+  player.cpp
+  Generating Code...
+  Qwixx_Assignment.vcxproj -> D:\Workspace\Cpp\Qwixx_Assignment\Debug\Qwixx_Assignment.exe
+  Qwixx_Assignment.vcxproj -> D:\Workspace\Cpp\Qwixx_Assignment\Debug\Qwixx_Assignment.pdb (Full PDB)
